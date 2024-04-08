@@ -1,0 +1,8 @@
+# php vendor
+vendor/
+
+# config file
+config/config.php
+
+# logs file
+*.log
